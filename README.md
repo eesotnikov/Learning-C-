@@ -1,7 +1,7 @@
 #include <iosteam>
   
   main {
-  int x==2
+  int x==2;
   cout <<x<<endl;
   }
   
